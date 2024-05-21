@@ -1,0 +1,4 @@
+*.*.* => hello.aren.sinaei
+#.anything => aren.sinaei.anything
+foo.bar.* => foo.bar.[react,vue]
+foo.bar.# => foo.bar.else.else.else
